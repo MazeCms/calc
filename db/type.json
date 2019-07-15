@@ -1,0 +1,82 @@
+[
+  {
+    "name":"Болт",
+    "value":"bolt",
+    "icon":"icon-topseo icon-topseo-bolt"
+  },
+  {
+    "name":"Винт",
+    "value":"vint",
+    "icon":"icon-topseo icon-topseo-vint"
+  },
+  {
+    "name":"Гайка",
+    "value":"gaika",
+    "icon":"icon-topseo icon-topseo-gaika"
+  },
+  {
+    "name":"Гвоздь",
+    "value":"gvozd",
+    "icon":"icon-topseo icon-topseo-gvozd"
+  },
+  {
+    "name":"Гровер",
+    "value":"grover",
+    "icon":"icon-topseo icon-topseo-grover"
+  },
+  {
+    "name":"Ж/д крепёж",
+    "value":"krepezh",
+    "icon":"icon-topseo icon-topseo-krepezh"
+  },
+  {
+    "name":"Заклёпка",
+    "value":"zaklepka",
+    "icon":"icon-topseo icon-topseo-zaklepka"
+  },
+  {
+    "name":"Кольцо стопорное",
+    "value":"kolco",
+    "icon":"icon-topseo icon-topseo-kolco"
+  },
+  {
+    "name":"Пружина",
+    "value":"pruzhina",
+    "icon":"icon-topseo icon-topseo-pruzhina"
+  },
+  {
+    "name":"Саморез",
+    "value":"samorez",
+    "icon":"icon-topseo icon-topseo-samorez"
+  },
+  {
+    "name":"Талреп",
+    "value":"talrep",
+    "icon":"icon-topseo icon-topseo-talrep"
+  },
+  {
+    "name":"Шайба",
+    "value":"shaiba",
+    "icon":"icon-topseo icon-topseo-shaiba"
+  },
+  {
+    "name":"Шпилька",
+    "value":"shpilka",
+    "icon":"icon-topseo icon-topseo-shpilka"
+  },
+  {
+    "name":"Шплинт",
+    "value":"shplint",
+    "icon":"icon-topseo icon-topseo-shplint"
+  },
+  {
+    "name":"Штифт",
+    "value":"shtift",
+    "icon":"icon-topseo icon-topseo-shtift"
+  },
+  {
+    "name":"Шуруп",
+    "value":"shurup",
+    "icon":"icon-topseo icon-topseo-shurup"
+  }
+]
